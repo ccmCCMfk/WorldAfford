@@ -21,5 +21,6 @@ Install the dependencies listed in `environment.yml` through conda:
 
 ## 3.Dataset Collection and Annotation Process
 ## 4.Train
+## 5.Test
 
 
