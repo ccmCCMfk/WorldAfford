@@ -26,9 +26,9 @@ python process_label.py to obtain GT.
 ## 4.Train
 python train.py to train a model.
 
-Please modify the paths.
+please modify the paths.
 ## 5.Test
 python test.py to test a model.
 
-Please modify the paths.
+please modify the paths.
 
