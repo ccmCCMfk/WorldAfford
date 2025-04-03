@@ -24,11 +24,13 @@ Data Collection Pipeline:
 <img src="assets/data_collection_process.png">
 python process_label.py to obtain GT.
 ## 4.Train
-python train.py to train a model.
-
-please modify the paths.
+To train a model,please modify the paths and run:
+```
+python train.py
+```
 ## 5.Test
-python test.py to test a model.
-
-please modify the paths.
+To test the model,please modify the paths and run:
+```
+python test.py
+```
 
