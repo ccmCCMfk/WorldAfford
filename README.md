@@ -33,4 +33,6 @@ To test the model,please modify the paths and run:
 ```
 python test.py
 ```
+## Acknowledgement
 
+We sincerely thank the codebase of [CLIP](https://github.com/openai/CLIP/), [SAM](https://github.com/facebookresearch/segment-anything/tree/main) and [LOCATE](https://github.com/Reagan1311/LOCATE).
