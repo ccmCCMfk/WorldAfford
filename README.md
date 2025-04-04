@@ -26,12 +26,12 @@ python process_label.py to obtain GT.
 ## 4.Train
 To train a model,please modify the paths and run:
 ```
-python train.py
+python train.py --Seen/Unseen
 ```
 ## 5.Test
 To test the model,please modify the paths and run:
 ```
-python test.py
+python test.py --Seen/Unseen
 ```
 ## Acknowledgement
 
