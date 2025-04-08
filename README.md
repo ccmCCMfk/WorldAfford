@@ -22,7 +22,10 @@ Install the dependencies listed in `environment.yml` through conda:
 ## 3.Dataset Collection and Annotation Process
 Data Collection Pipeline:
 <img src="assets/data_collection_process.png">
-python process_label.py to obtain GT.
+To obtain GT：
+```
+python process_label.py
+```
 ## 4.Train
 To train a model,please modify the paths and run:
 ```
