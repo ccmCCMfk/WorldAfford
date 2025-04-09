@@ -29,12 +29,12 @@ python process_label.py
 ## 4.Train
 To train a model,please modify the paths and run:
 ```
-python train.py --Seen/Unseen
+python train.py --divide Seen/Unseen --epochs 35
 ```
 ## 5.Test
 To test the model,please modify the paths and run:
 ```
-python test.py --Seen/Unseen
+python test.py --divide Seen/Unseen
 ```
 ## Acknowledgement
 
