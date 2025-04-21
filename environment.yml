@@ -111,4 +111,4 @@ dependencies:
       - wcwidth==0.2.13
       - yarl==1.9.4
       - zipp==3.15.0
-prefix: /home/ccm/.conda/envs/LOCATE
+prefix: /home/ccm/.conda/envs/WorldAfford
